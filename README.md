@@ -1,4 +1,4 @@
-# 🚗 Araç Fiyat Tahmini Projesi (Audi A6 - arabam.com)
+# 🚗 Araç Fiyat Tahmini Projesi (Audi A6)
 
 ## 📌 Proje Tanımı
 
